@@ -2,7 +2,7 @@
 
 A fun, Hindi-based, and interactive guide to **Pure Functions** in Functional Programming, featuring **Jethalal** and **Babita** from *TMKOC*. This demo visually explains the difference between pure and impure functions using real-world analogies, code examples, and hands-on testing.
 
-🔗 **Live Demo:** [demo-async-await](https://demo-async-await.netlify.app/)
+🔗 **Live Demo:** [pure-function-fullstackgada](https://pure-function-fullstackgada.netlify.app/)
 
 ---
 
