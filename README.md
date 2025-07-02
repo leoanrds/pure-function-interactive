@@ -15,7 +15,7 @@ A fun, Hindi-based, and interactive guide to **Pure Functions** in Functional Pr
 - 🖥️ Interactive area to test and compare function outputs
 - 📊 Test history to see pure function consistency
 - 📋 Comparison table of properties (predictability, side effects, testing, debugging, parallelization)
-- 📱 Fully responsive, modern, and colorful UI
+- 📱 Fully responsive, modern, and colourful UI
 
 ---
 
@@ -42,6 +42,6 @@ A fun, Hindi-based, and interactive guide to **Pure Functions** in Functional Pr
 
 🔗 **Instagram:** [fullstackgada](https://www.instagram.com/fullstackgada/)
 
-🤝 Follow for more creative tech content!
+🤝 Follow on Instagram for more creative tech content!
 
 **Enjoy learning Pure Functions the fun way!**
